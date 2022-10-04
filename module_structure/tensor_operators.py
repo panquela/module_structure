@@ -13,7 +13,7 @@ class Torch_calculator():
                    dim_y,
                    dim_z):
 
-        ones = torch.ones(dim_x,dim_y,dim_z)
+        ones = torch.ones([dim_x,dim_y,dim_z])
 
         return ones
 
