@@ -9,9 +9,10 @@ class TensorCalculator():
 
         return None
 
-    def tensor_ones(dim_x,
-                   dim_y,
-                   dim_z):
+    def tensor_ones(self,
+                    dim_x,
+                    dim_y,
+                    dim_z):
 
         ones = torch.ones([dim_x,dim_y,dim_z])
 
