@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 MAJOR = 1
 MINOR = 0
 PATCH = 0
-COMMIT = 5
+COMMIT = 6
 
 # from main import *
 

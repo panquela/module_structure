@@ -1,9 +1,9 @@
 import torch
 
 
-__all__ = ['Tensor_calculator']
+__all__ = ['TensorCalculator']
 
-class Tensor_calculator():
+class TensorCalculator():
 
     def __init__(self):
 
