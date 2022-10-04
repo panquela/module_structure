@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 MAJOR = 1
 MINOR = 0
 PATCH = 0
-COMMIT = 7
+COMMIT = 8
 
 # from main import *
 
@@ -21,7 +21,7 @@ __name__    = 'module_structure'
 VERSION = __version__
 
 setup(
-    name='Basic Package Layout',
+    name='module_structure',
     version=VERSION,
     description='Brief description of your package',
     author='Pedro Anquela',
