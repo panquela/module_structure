@@ -1,15 +1,15 @@
 import torch
 
 
-__all__ = ['Torch_calculator']
+__all__ = ['Tensor_calculator']
 
-class Torch_calculator():
+class Tensor_calculator():
 
     def __init__(self):
 
         return None
 
-    def torch_ones(dim_x,
+    def tensor_ones(dim_x,
                    dim_y,
                    dim_z):
 
