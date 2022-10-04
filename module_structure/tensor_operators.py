@@ -1,6 +1,9 @@
 import torch
 
-class torch_calculator():
+
+__all__ = ['Torch_calculator']
+
+class Torch_calculator():
 
     def __init__(self):
 
