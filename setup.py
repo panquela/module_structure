@@ -6,7 +6,7 @@ Created on Tue Oct  4 15:54:58 2022
 """
 
 from setuptools import setup, find_packages
-from erg import __author__,__version__,__name__
+from module_structure import __author__,__version__,__name__
 
 
 VERSION = __version__
