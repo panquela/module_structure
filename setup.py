@@ -6,17 +6,8 @@ Created on Tue Oct  4 15:54:58 2022
 """
 
 from setuptools import setup, find_packages
+from erg import __author__,__version__,__name__
 
-MAJOR = 1
-MINOR = 0
-PATCH = 0
-COMMIT = 9
-
-# from main import *
-
-__version__ = f'{MAJOR}.{MINOR}.{PATCH}.{COMMIT}'
-__author__  = 'Universidad Francisco de Vitoria'
-__name__    = 'module_structure'
 
 VERSION = __version__
 AUTHOR = __author__
