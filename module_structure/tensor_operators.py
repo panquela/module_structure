@@ -9,8 +9,7 @@ class TensorCalculator():
 
         return None
 
-    def tensor_ones(self,
-                    dim_x,
+    def tensor_ones(dim_x,
                     dim_y,
                     dim_z):
 
